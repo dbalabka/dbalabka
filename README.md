@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 📜 &nbsp;[Publications](https://scholar.google.com/citations?user=brb8-9YAAAAJ&hl=en&oi=ao)  
 📄 &nbsp;[CV](https://docs.google.com/document/d/1ntxtERZ11sV-wAhqhE7FJplS-KADvpGGZY0HFXhOYb0/edit?usp=sharing)  
  
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dbalabka&show_icons=true" alt="Octav" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dbalabka&layout=compact" alt="Most used languages" />
+</p>
