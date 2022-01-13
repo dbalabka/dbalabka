@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <img width="20" src="https://avatars3.githubusercontent.com/u/357098?s=200&v=4"> <a href="https://www.linkedin.com/in/dmitrybalabka/" target="_blank">LinkedIn</a><br>
 <img width="20" src="https://www.pinclipart.com/picdir/middle/1-14041_twitter-logo-transparent-background-twitter-logo-clipart.png"> <a href="https://twitter.com/dmitrybalabka" target="_blank">Twitter</a><br>
 📜 &nbsp;[Publications](https://scholar.google.com/citations?user=brb8-9YAAAAJ&hl=en&oi=ao)  
-📄 &nbsp;[CV](https://docs.google.com/document/d/1ntxtERZ11sV-wAhqhE7FJplS-KADvpGGZY0HFXhOYb0/edit?usp=sharing)  
+📄 &nbsp;[CV](https://drive.google.com/file/d/19zQZ2gH-mfP7atAAQrU2BaR6Vu7ySiKm/view?usp=sharing)  
 🎥 &nbsp;[Public presenations](https://speakerdeck.com/dmitrybalabka)  
 🏡 [https://dmitry.balabka.com](https://dmitry.balabka.com)
  
